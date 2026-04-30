@@ -27,7 +27,7 @@ Use the skill and ask, for example, gpt 5.5 to rewrite the prompt, then send thi
 - Cinematic still: film-frame composition, lighting, and mood.
 - Small improvements for UI, infographics, and memes.
 
-## ChatGPT Web
+## ChatGPT Web (Chatgpt web is very random and can overwrite the prompt)
 
 Enable Memory, then save this instruction before generating images:
 
