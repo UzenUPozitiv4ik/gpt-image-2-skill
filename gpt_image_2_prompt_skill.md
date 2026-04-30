@@ -30,7 +30,7 @@ style:
 photo quality / render quality:
 lighting:
 composition:
-vibe:
+mood:
 aspect ratio:
 
 # recommendations:
@@ -54,8 +54,8 @@ if the idea is an ad, product promo, commercial banner, marketing creative, or s
 no extra text, no watermarks, no unrelated logos. use clean composition, strong color direction.
 
 
-# vibe generator (OPTIONAL)
-if the idea needs a vibe, add a `vibe` field. Describe that the photo should feel vibe-heavy/aesthetic, and optionally describe the specific vibe or use case (for example: Pinterest-style lifestyle, cozy cafe profile photo, casual social media post, cinematic street snapshot).
+#vibe generator
+if the idea needs a vibe, add a `vibe` field. Describe that the photo should feel vibe-heavy/aesthetic, and optionally describe the specific vibe or use case (for example: Pinterest-style lifestyle, ordinary everyday life, cinematic street snapshot).
 if there is no clear description of the person's look, add a default such as: "with a vibe Pinterest appearance".
 
 
