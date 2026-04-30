@@ -7,6 +7,7 @@
 A compact agent skill for turning short prompts into beautiful, realistic GPT Image 2 images.
 
 ![GPT Image 2 Skill comparison](assets/comparison.png)
+![GPT Image 2 Skill comparison](assets/comparison1.png)
 
 ## What It Does
 
