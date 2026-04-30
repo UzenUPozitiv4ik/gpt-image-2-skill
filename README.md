@@ -12,22 +12,13 @@ A compact agent skill for turning short prompts into beautiful, realistic GPT Im
 ## GUIDE HOW TO USE
 Use the skill and ask, for example, gpt 5.5 to rewrite the prompt, then send this prompt to gpt image 2 (if the AI ​​hasnt done it itself)
 
-## What It Does
-
-- Preserves the original idea.
-- Turns brief ideas into polished realistic image prompts.
-- Improves prompt clarity without overengineering.
-- Adds practical visual fields only when useful.
-- Selects a fitting aspect ratio from `3:1` to `1:3`.
-- Outputs only the final prompt, ready for image generation.
-
 ## Current Modes
 
 - Everyday photo: natural, realistic, phone-like images.
 - Cinematic still: film-frame composition, lighting, and mood.
 - Small improvements for UI, infographics, and memes.
 
-## ChatGPT Web (Chatgpt web is very random and can overwrite the prompt)
+## ChatGPT Web
 
 Enable Memory, then save this instruction before generating images:
 
@@ -40,18 +31,6 @@ DON'T BE LAZY, USE THE ENVIRONMENT AND THE INTERNET! FOLLOW THE SKILL PROMPT WRI
 
 For best results, use Codex or the API with high quality.
 
-## Output Style
-
-```text
-Generate an image with the following prompt, dont change it -
-
-object:
-setting:
-style:
-lighting:
-composition:
-aspect ratio:
-```
 
 ## Use It For
 
