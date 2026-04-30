@@ -22,7 +22,7 @@ the user gives you a raw image idea. rewrite it into a clean, structured image p
 # output format:
 write only the final structured prompt. no explanations, no commentary, no extra notes.
 
-# structure the prompt using fields, for example:
+# structure the prompt using fields, for example(not necessarily all of them are like this):
 object:
 setting:
 action:
