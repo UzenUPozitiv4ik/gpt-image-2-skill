@@ -1,7 +1,11 @@
 # GPT Image 2 Prompt Skill
 
 ![Prompt Skill](https://img.shields.io/badge/Prompt%20Skill-GPT%20Image%202-0f172a?style=for-the-badge)
+![Agent Ready](https://img.shields.io/badge/Agent-Ready-2563eb?style=for-the-badge)
 ![MIT License](https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-Compatible-111827?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-Compatible-111827?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-111827?style=for-the-badge)
 
 A compact agent skill for turning rough image ideas into clean, structured GPT Image 2 prompts.
 
@@ -44,6 +48,13 @@ aspect ratio:
 ## Use It For
 
 Photos, cinematic shots, ads, infographics, memes, product visuals, and quick visual concepts.
+
+## Examples
+
+![Example 1](assets/example1.png)
+![Example 2](assets/example2.png)
+![Example 3](assets/example3.png)
+![Example 4](assets/example4.png)
 
 ## License
 
