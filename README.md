@@ -23,7 +23,7 @@ A compact agent skill for turning short prompts into beautiful, realistic GPT Im
 - Cinematic still: film-frame composition, lighting, and mood.
 - Small improvements for UI, infographics, and memes.
 
-## ChatGPT Web
+## ChatGPT Web (currently works very poorly on chatgpt web)
 
 Enable Memory, then save this instruction before generating images:
 
