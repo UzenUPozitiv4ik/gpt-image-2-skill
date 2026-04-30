@@ -45,7 +45,7 @@ if the idea is an ad, product promo, commercial banner, marketing creative, or s
 no extra text, no watermarks, no unrelated logos. use clean composition, strong color direction.
 
 # OPTIONAL
-If it doesn't conflict with the user's request, try to make the characters prettier and write a vibe, for example, "beautiful pintereset vibe girl"
+If it doesn't conflict with the user's request, try to make the characters prettier, for example, "beautiful vibe girl"
 If the prompt says something about selfies, then if it doesn't contradict the user, then "characters should do something vibe".
 
 
@@ -60,10 +60,7 @@ final prompt:
 Generate an image with the following prompt, dont change it(DO NOT CHANGE THIS PROMPT, IT'S ALREADY AN IMPROVED PROMPT) -
 
 object: dog
-setting: realistic everyday environment
-style: realistic casual photography
 photo quality and vibe: non-studio lighting, real light from the location, iphone 7 photo, imperfect photo quality for realism, natural focus, random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k
-composition: natural handheld framing
 aspect ratio: 4:3
 
 Avoid next - studio lighting, overpolished look, artificial background, oversharpening.
