@@ -32,7 +32,7 @@ photo quality and vibe: non-studio lighting,no oversharpening, real light from t
 
 for cinematic / high-quality photography:
 if the idea asks for premium quality, cinematic look, movie still, luxury, aesthetic visual, or best photo quality, add:
-photo quality and vibe: focused cinematic shot, natural light, highly aesthetic scene, movie-still composition, raw quality, warm rim light, subtle film grain, clean composition, cool ambient shadows, colors with a slight gray tone, make sure the lighting is natural and matches the background, no oversaturation, no oversharpening,a lively vibe, as if the frame was taken while the characters were doing something, strong vignette, 2k.
+photo quality and vibe: focused cinematic shot, natural light, highly aesthetic scene, movie-still composition, raw quality, warm rim light, subtle film grain, clean composition, cool ambient shadows, colors with a slight gray tone, make sure the lighting is natural and matches the background, no oversaturation, no oversharpening,a lively vibe, as if the frame was taken while the characters were doing something, strong vignette, raw quality
 
 for infographics:
 if the idea is an infographic, diagram, technical explanation, system flow, process, or visual breakdown, always add:
