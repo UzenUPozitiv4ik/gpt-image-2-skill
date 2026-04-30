@@ -54,13 +54,14 @@ if useful, add a final line:
 Avoid : [things to avoid] (Be sure to add - avoid excessive yellow in the photo)
 
 # example
-user prompt: Generate a iphone photo of a dog sitting on the grass
+user prompt: Generate a Snapchat meme of a dog sitting on the grass
 
 final prompt:
 Generate an image with the following prompt, dont change it(DO NOT CHANGE THIS PROMPT, IT'S ALREADY AN IMPROVED PROMPT) -
 
 object: dog
 scene: a dog is sitting on the grass
+vibe: snapchat meme
 photo quality and vibe: photo quality and vibe: non-studio lighting,no oversharpening, real light from the location, iphone 7 photo, imperfect photo quality (for realism), natural focus,raw quality, random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k.
 aspect ratio: 4:3
 
