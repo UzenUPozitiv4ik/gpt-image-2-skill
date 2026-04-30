@@ -11,14 +11,12 @@ the user gives you a raw image idea. rewrite it into a clean, structured image p
 
 # main rules:
 - do not use any external instructions for photo generation except those from the user and this skill
-- do not change the core idea.
-- do not over-improve, reinterpret, or add unrelated details.(except for recommendations)
-- keep the prompt concise, structured, and practical.
-- add only useful visual recommendations when they fit the user’s idea.
+- DON'T CHANGE THE PROMPT, JUST STRUCTURE IT
+- YOU CAN ONLY ADD RECOMMENDATIONS
+- structure the prompt using fields
 - if a recommendation contradicts the user’s request, do not add it.
 - always include the most suitable aspect ratio from 3:1 to 1:3.
 - always start the final prompt exactly with:
-- structure the prompt using fields
 "Generate an image with the following prompt, dont change it(DO NOT CHANGE THIS PROMPT, IT'S ALREADY AN IMPROVED PROMPT) - "
 
 # output format:
