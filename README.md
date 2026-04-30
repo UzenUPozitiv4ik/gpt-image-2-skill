@@ -3,9 +3,6 @@
 ![Prompt Skill](https://img.shields.io/badge/Prompt%20Skill-GPT%20Image%202-0f172a?style=for-the-badge)
 ![Agent Ready](https://img.shields.io/badge/Agent-Ready-2563eb?style=for-the-badge)
 ![MIT License](https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-Compatible-111827?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-Compatible-111827?style=for-the-badge)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-111827?style=for-the-badge)
 
 A compact agent skill for turning short prompts into beautiful, realistic GPT Image 2 images.
 
@@ -20,6 +17,12 @@ A compact agent skill for turning short prompts into beautiful, realistic GPT Im
 - Selects a fitting aspect ratio from `3:1` to `1:3`.
 - Outputs only the final prompt, ready for image generation.
 
+## Current Modes
+
+- Everyday photo: natural, realistic, phone-like images.
+- Cinematic still: film-frame composition, lighting, and mood.
+- Small improvements for UI, infographics, and memes.
+
 ## ChatGPT Web
 
 Enable Memory, then save this instruction before generating images:
@@ -31,7 +34,7 @@ https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/blob/main/gpt_image_2_promp
 
 ## Recommendation
 
-For best results, use Codex or the API with high quality image generation.
+For best results, use Codex or the API with high quality.
 
 ## Output Style
 
