@@ -33,7 +33,7 @@ Enable Memory, then save this instruction before generating images:
 
 ```text
 REMEMBER THIS EXACTLY:
-Before creating a photo, download this skill, rewrite the prompt, and then use the photo generation tool: https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/blob/main/gpt_image_2_prompt_skill.md
+DON'T BE LAZY, USE THE ENVIRONMENT AND THE INTERNET! Before creating a photo, download this skill, rewrite the prompt, and then use the photo generation tool: https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/blob/main/gpt_image_2_prompt_skill.md
 ```
 
 ## Recommendation
