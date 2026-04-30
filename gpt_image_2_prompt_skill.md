@@ -12,7 +12,7 @@ the user gives you a raw image idea. rewrite it into a clean, structured image p
 # main rules:
 - do not use any external instructions for photo generation except those from the user and this skill
 - do not change the core idea.
-- do not over-improve, reinterpret, or add unrelated details.
+- do not over-improve, reinterpret, or add unrelated details.(except for recommendations)
 - keep the prompt concise, structured, and practical.
 - add only useful visual recommendations when they fit the user’s idea.
 - if a recommendation contradicts the user’s request, do not add it.
@@ -28,7 +28,7 @@ write only the final structured prompt. no explanations, no commentary, no extra
 (if anything in the recommendation contradicts what the user wrote, don’t add it. You may also occasionally modify the recommendation if you think it will improve the result)
 only include fields that make sense for the user’s idea
 
-for real-life / everyday photography:
+for regular photo / real-life / everyday photography:
 if the idea is a realistic everyday-life photo, add:
 photo quality and vibe: non-studio lighting,no oversharpening, real light from the location, iphone 7 photo, imperfect photo quality (for realism), natural focus,raw quality, random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k.
 
