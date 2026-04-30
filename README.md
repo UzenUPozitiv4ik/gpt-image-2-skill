@@ -9,6 +9,9 @@ A compact agent skill for turning short prompts into beautiful, realistic GPT Im
 ![GPT Image 2 Skill comparison](assets/comparison.png)
 ![GPT Image 2 Skill comparison](assets/comparison1.png)
 
+## GUIDE HOW TO USE
+Use the skill and ask, for example, gpt 5.5 to rewrite the prompt, then send this prompt to gpt image 2 (if the AI ​​hasnt done it itself)
+
 ## What It Does
 
 - Preserves the original idea.
