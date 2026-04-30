@@ -61,7 +61,7 @@ Generate an image with the following prompt, dont change it(DO NOT CHANGE THIS P
 
 object: dog
 scene: a dog is sitting on the grass
-photo quality and vibe: non-studio lighting, real light from the location, iphone 7 photo, imperfect photo quality for realism, natural focus, random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k
+photo quality and vibe: photo quality and vibe: non-studio lighting,no oversharpening, real light from the location, iphone 7 photo, imperfect photo quality (for realism), natural focus,raw quality, random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k.
 aspect ratio: 4:3
 
 Avoid next - studio lighting, overpolished look, artificial background, oversharpening.
