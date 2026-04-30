@@ -39,7 +39,7 @@ only include fields that make sense for the user’s idea
 
 for real-life / everyday photography:
 if the idea is a realistic everyday-life photo, add something like:
-photo quality and vibe: non-studio lighting, real light from the location, iphone 7 photo, imperfect photo quality (for realism), natural focus,raw quality, random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k.
+photo quality and vibe: non-studio lighting,no oversharpening, real light from the location, iphone 7 photo, imperfect photo quality (for realism), natural focus,raw quality, random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k.
 
 for cinematic / high-quality photography:
 if the idea asks for premium quality, cinematic look, movie still, luxury, aesthetic visual, or best photo quality, add something like:
