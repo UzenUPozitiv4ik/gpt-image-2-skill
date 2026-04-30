@@ -27,13 +27,13 @@ Use the skill and ask, for example, gpt 5.5 to rewrite the prompt, then send thi
 - Cinematic still: film-frame composition, lighting, and mood.
 - Small improvements for UI, infographics, and memes.
 
-## ChatGPT Web (currently works very poorly on chatgpt web)
+## ChatGPT Web
 
 Enable Memory, then save this instruction before generating images:
 
 ```text
-Before generating photos, use this skill to create the prompt:
-https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/blob/main/gpt_image_2_prompt_skill.md
+REMEMBER THIS EXACTLY:
+Before creating a photo, download this skill, rewrite the prompt, and then use the photo generation tool: https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/blob/main/gpt_image_2_prompt_skill.md
 ```
 
 ## Recommendation
