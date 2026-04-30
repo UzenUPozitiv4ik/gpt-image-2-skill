@@ -7,13 +7,14 @@
 ![Cursor](https://img.shields.io/badge/Cursor-Compatible-111827?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-111827?style=for-the-badge)
 
-A compact agent skill for turning rough image ideas into clean, structured GPT Image 2 prompts.
+A compact agent skill for turning short prompts into beautiful, realistic GPT Image 2 images.
 
 ![GPT Image 2 Skill comparison](assets/comparison.png)
 
 ## What It Does
 
 - Preserves the original idea.
+- Turns brief ideas into polished realistic image prompts.
 - Improves prompt clarity without overengineering.
 - Adds practical visual fields only when useful.
 - Selects a fitting aspect ratio from `3:1` to `1:3`.
@@ -52,9 +53,28 @@ Photos, cinematic shots, ads, infographics, memes, product visuals, and quick vi
 ## Examples
 
 ![Example 1](assets/example1.png)
+
+```text
+Jenna Ortega and Sabrina Carpenter walking through a park.
+```
+
 ![Example 2](assets/example2.png)
+
+```text
+Dario Amodei and Sam Altman performing at a Tiny Desk concert, wearing their everyday clothes, cinematic film still.
+```
+
 ![Example 3](assets/example3.png)
+
+```text
+Jenna Ortega and Sabrina Carpenter walking through a park, cinematic film still.
+```
+
 ![Example 4](assets/example4.png)
+
+```text
+Create one 16:9 image made from four vertical 9:16 Snapchat-style meme selfies. Jenna Ortega and Sabrina Carpenter appear in different iconic video game worlds, with their outfits matching each world. Each selfie has a distinct interesting vibe, realistic lighting, and a playful candid phone-photo feel.
+```
 
 ## License
 
