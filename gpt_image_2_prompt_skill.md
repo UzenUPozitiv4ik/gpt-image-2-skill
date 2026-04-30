@@ -29,11 +29,11 @@ write only the final structured prompt. no explanations, no commentary, no extra
 only include fields that make sense for the user’s idea
 
 for real-life / everyday photography:
-if the idea is a realistic everyday-life photo, add something like:
+if the idea is a realistic everyday-life photo, add:
 photo quality and vibe: non-studio lighting,no oversharpening, real light from the location, iphone 7 photo, imperfect photo quality (for realism), natural focus,raw quality, random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k.
 
 for cinematic / high-quality photography:
-if the idea asks for premium quality, cinematic look, movie still, luxury, aesthetic visual, or best photo quality, add something like:
+if the idea asks for premium quality, cinematic look, movie still, luxury, aesthetic visual, or best photo quality, add:
 photo quality and vibe: focused cinematic shot, natural light, highly aesthetic scene, movie-still composition, raw quality, warm rim light, subtle film grain, clean composition, cool ambient shadows, natural colors with a slight gray tone, make sure the lighting is natural and matches the background, no oversaturation, no oversharpening,a lively vibe, as if the frame was taken while the characters were doing something, strong vignette, 2k.
 
 for infographics:
