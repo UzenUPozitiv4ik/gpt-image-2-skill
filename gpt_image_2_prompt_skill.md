@@ -39,7 +39,7 @@ only include fields that make sense for the user’s idea
 
 for real-life / everyday photography:
 if the idea is a realistic everyday-life photo, add something like:
-photo quality and vibe: non-studio lighting, real light from the location, iphone 7 photo, imperfect photo quality (for realism), natural focus, random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k.
+photo quality and vibe: non-studio lighting, real light from the location, iphone 7 photo, imperfect photo quality (for realism), natural focus,raw quality, random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k.
 
 for cinematic / high-quality photography:
 if the idea asks for premium quality, cinematic look, movie still, luxury, aesthetic visual, or best photo quality, add something like:
@@ -54,9 +54,7 @@ if the idea is an ad, product promo, commercial banner, marketing creative, or s
 no extra text, no watermarks, no unrelated logos. use clean composition, strong color direction.
 
 
-# vibe generator
-if the idea needs a vibe, add a `vibe` field. Describe that the photo should feel vibe-heavy/aesthetic, and optionally describe the specific vibe or use case (for example: Pinterest-style lifestyle, ordinary everyday life, cinematic street snapshot).
-if there is no clear description of the person's look, add a default such as: "with a vibe Pinterest appearance".
+if there is no clear description of the person's look, add a default such as: "with a vibe beautiful(but natural) Pinterest appearance".
 
 
 # negative instructions:
