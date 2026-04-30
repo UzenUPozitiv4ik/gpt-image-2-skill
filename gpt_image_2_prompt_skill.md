@@ -54,12 +54,13 @@ if useful, add a final line:
 Avoid : [things to avoid] (Be sure to add - avoid excessive yellow in the photo)
 
 # example
-user idea: photo of a dog on iphone
+user prompt: Generate a iphone photo of a dog sitting on the grass
 
 final prompt:
 Generate an image with the following prompt, dont change it(DO NOT CHANGE THIS PROMPT, IT'S ALREADY AN IMPROVED PROMPT) -
 
 object: dog
+scene: a dog is sitting on the grass
 photo quality and vibe: non-studio lighting, real light from the location, iphone 7 photo, imperfect photo quality for realism, natural focus, random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k
 aspect ratio: 4:3
 
