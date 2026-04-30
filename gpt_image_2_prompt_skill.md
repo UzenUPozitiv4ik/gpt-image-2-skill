@@ -54,7 +54,7 @@ if the idea is an ad, product promo, commercial banner, marketing creative, or s
 no extra text, no watermarks, no unrelated logos. use clean composition, strong color direction.
 
 # OPTIONAL
-if there is no clear description of the person's look, add a default such as: "with a vibe beautiful(but natural) Pinterest appearance".
+If it doesn't conflict with the user's request, make the characters prettier and write a vibe, for example, "beautiful pintereset vibe girl"
 If the prompt says something about selfies, then if it doesn't contradict the user, then "characters should do something vibe".
 
 
