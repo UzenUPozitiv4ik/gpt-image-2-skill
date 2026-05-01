@@ -59,7 +59,7 @@ Jenna Ortega and Sabrina Carpenter walking through a park, cinematic film still.
 ![Example 4](assets/example4.png)
 
 ```text
-Create one 16:9 image made from four vertical 9:16 Snapchat-style meme selfies. Jenna Ortega and Sabrina Carpenter appear in different iconic video game worlds, with their outfits matching each world. Each selfie has a distinct interesting vibe, realistic lighting, and a playful candid phone-photo feel.
+Several (maximum 4) vertical 9:16 Snapchat memes (in these photos, the girls take interesting, vibe-y selfies and goof around with objects from the locations) – Jenna Ortega and Sabrina Carpenter in various worlds from various cult games (Doom, Syberia, Crucis, Borderlands), their looks match these worlds. All photos are combined in a row into a single 16:9 image
 ```
 
 ## License
