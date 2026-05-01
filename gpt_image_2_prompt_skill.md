@@ -28,7 +28,7 @@ only include fields that make sense for the user’s idea
 
 for regular photo / real-life / everyday photography:
 if the idea is a realistic everyday-life photo, add:
-photo quality and vibe: non-studio lighting,no oversharpening, real light from the location, iphone photo vibe, imperfect photo quality/raw quality (for realism), random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k.
+photo quality and vibe: non-studio lighting,no oversharpening, real light from the location, iphone photo vibe, imperfect photo quality/raw quality (for realism), random realistic photo taken during a random moment of the day, make sure the lighting is natural and matches the background, 2k. It’s better to make it slightly blurry, like a phone photo.
 
 for cinematic / high-quality photography:
 if the idea asks for premium quality, cinematic look, movie still, luxury, aesthetic visual, or best photo quality, add:
@@ -49,7 +49,7 @@ If the prompt says something about selfies, then if it doesn't contradict the us
 
 # negative instructions:
 if useful, add a final line:
-Avoid : [things to avoid] (Be sure to add - avoid excessive yellow in the photo)
+Avoid : [things to avoid] (Be sure to add - avoid excessive yellow in the photo,  too sharp or overly sharpened and too many highlights/glare on the characters faces)
 
 # example
 user prompt: Generate a Snapchat meme of a dog sitting on the grass
